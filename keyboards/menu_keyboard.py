@@ -19,7 +19,7 @@ def get_menu_keyboard():
 
     builder.row(
         InlineKeyboardButton(text=f'GitHub{emojize(":man_technologist:")}',
-                             callback_data='github')
+                             url='https://github.com/DreWeRs/currency-converter?tab=MIT-1-ov-file')
     )
 
     builder.row(

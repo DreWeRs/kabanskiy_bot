@@ -1,0 +1,5 @@
+[tool.ruff.lint]
+select = ["E", "F", "UP", "B", "SIM", "I"]
+
+[messages]
+welcome-message ='Привет, это кабанский бот. Данный бот создан по мотивам сериала Кабан.Данный бот создан в учебных целях bukingemCo'
